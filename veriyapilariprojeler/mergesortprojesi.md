@@ -19,4 +19,4 @@
 ## Big-O Notation
 Merge sort algoritmasında Big-O Gösterimi O(nlogn) şeklindedir. Bu durum bize input size ile çalışma süresi arasında logaritmik bir karakteristik olduğunu gösterir. 
   
-  deneme
+  
