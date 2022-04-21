@@ -23,3 +23,4 @@
 8.adım : 0 son nodedir.
 9.adım : 2 son nodedir.
 10.adım: 6 son nodedir.
+deneme

@@ -26,6 +26,6 @@ Bu dizinin sıralanmış hali için best case 2, average case 18, worst case 27d
 3.aşama : [2 3 4 8 7 9 5 15 6]
 4.aşama : [2 3 4 5 7 9 8 15 6]
 ```
-
+deneme
 
 
