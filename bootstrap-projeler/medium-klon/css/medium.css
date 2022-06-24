@@ -1,0 +1,26 @@
+body{
+    font-family: 'Arvo', serif;
+    font-family: 'Fascinate', cursive;
+    font-family: 'PT Serif', serif
+}
+
+.bg-yellow {
+    background-color:#FFC017
+}
+
+.border-bottom-dark {
+border-bottom:0.5px solid rgb(15, 6, 6);
+}
+
+.border-top-light {
+    border-top:0.5px solid lightgray;
+}
+
+.small-border {
+    border: 0.5px solid lightgray;
+    padding: 5px;
+}
+
+.header-margin-top {
+    margin-top: 65px;
+}
